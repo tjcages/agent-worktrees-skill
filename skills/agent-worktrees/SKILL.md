@@ -7,6 +7,8 @@ description: >-
   ritual. Use when ≥2 agents will touch this or any repo, the user asks to set
   up worktrees / parallel agents / agent isolation, or an agent is about to
   share a working tree with another. NOT for ordinary single-agent work on main.
+metadata:
+  internal: true
 ---
 
 # Agent worktrees
